@@ -1,0 +1,8 @@
+.btn-crazy {
+  position: absolute;
+  top: 30px;
+  left: 35%;
+  width: 30%;
+  transition: 0.1s ease all;
+  text-align: center;
+}
